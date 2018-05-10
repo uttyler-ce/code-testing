@@ -1,0 +1,13 @@
+.Skin .QuestionText {
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+@media (min-width: 768px){
+    .Skin .TE .FORM span.LabelWrapper {
+    padding-right: .25em;
+}
+    .Skin .TE .ControlContainer {
+    width: 70%;
+}
+}
